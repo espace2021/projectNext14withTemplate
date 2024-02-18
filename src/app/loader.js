@@ -25,6 +25,7 @@
 
 window.$ = window.jQuery = require('jquery')
 $(function() {
+  
     var selectedClass = "";
     $("p").click(function(){
     selectedClass = $(this).attr("data-rel");

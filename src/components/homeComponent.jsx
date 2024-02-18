@@ -108,7 +108,7 @@ const Home = () => {
                     <a href="#">Purchase Now!</a>
                   </div>
                 </div>
-                <img src="assets/images/left-banner-image.jpg" alt="" />
+                <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1658507588/samples/ecommerce/analog-classic.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -134,7 +134,7 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
-                      <img src="assets/images/baner-right-image-01.jpg" />
+                      <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1702403203/images/victoria.jpg.jpg" />
                     </div>
                   </div>
                 </div>
@@ -157,7 +157,7 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
-                      <img src="assets/images/baner-right-image-02.jpg" />
+                      <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1658507592/samples/people/smiling-man.jpg" />
                     </div>
                   </div>
                 </div>
@@ -180,7 +180,7 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
-                      <img src="assets/images/baner-right-image-03.jpg" />
+                      <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1658507594/samples/people/boy-snow-hoodie.jpg" />
                     </div>
                   </div>
                 </div>
@@ -203,7 +203,7 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
-                      <img src="assets/images/baner-right-image-04.jpg" />
+                      <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1658507588/samples/ecommerce/analog-classic.jpg" />
                     </div>
                   </div>
                 </div>
@@ -893,7 +893,7 @@ const Home = () => {
                 </div>
                 <div className="col-lg-6">
                   <div className="second-image">
-                    <img src="assets/images/explore-image-02.jpg" alt="" />
+                    <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1658507593/samples/bike.jpg" alt="" />
                   </div>
                 </div>
                 <div className="col-lg-6">
@@ -945,7 +945,7 @@ const Home = () => {
                   <i className="fa fa-instagram" />
                 </a>
               </div>
-              <img src="assets/images/instagram-02.jpg" alt="" />
+              <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1702459563/images/OIP.jpg.jpg" alt="" />
             </div>
           </div>
           <div className="col-2">
@@ -967,7 +967,7 @@ const Home = () => {
                   <i className="fa fa-instagram" />
                 </a>
               </div>
-              <img src="assets/images/instagram-04.jpg" alt="" />
+              <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1702401401/images/parfum.jpg.jpg" alt="" />
             </div>
           </div>
           <div className="col-2">
@@ -978,7 +978,7 @@ const Home = () => {
                   <i className="fa fa-instagram" />
                 </a>
               </div>
-              <img src="assets/images/instagram-05.jpg" alt="" />
+              <img src="https://res.cloudinary.com/iset-sfax/image/upload/v1702459665/images/modern-engraved-mechanical-pocket-watch-silver.jpg.jpg" alt="" />
             </div>
           </div>
           <div className="col-2">
